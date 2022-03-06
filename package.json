@@ -1,0 +1,22 @@
+{
+  "name": "magic-8ball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakBel/magic-8Ball.git"
+  },
+  "author": "Jakub Bełtowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakBel/magic-8Ball/issues"
+  },
+  "homepage": "https://JakBel.github.io/magic-8ball",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
